@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.1</version>
-    <url>https://github.com/StellairDev/DiscordTool/releases/download/1.1/DiscordTool.zip</url>
+    <version>1.2</version>
+    <url>https://github.com/StellairDev/DiscordTool/releases/download/1.2/DiscordTool.zip</url>
     <changelog>https://github.com/StellairDEV/DiscordTool/releases</changelog>
     <mandatory mode="2">true</mandatory>
 </item>
